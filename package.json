@@ -1,5 +1,5 @@
 {
-  "name": "Array-Merge",
+  "name": "array-merger",
   "version": "0.1.0",
   "description": "A small library provoding method to merge two sorted array",
   "main": "index.js",
