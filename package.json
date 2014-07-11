@@ -1,0 +1,28 @@
+{
+  "name": "array-merge",
+  "version": "0.1.0",
+  "description": "A small library provoding method to merge two sorted array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaysingh/node.js-merge-sorted-array.git"
+  },
+  "keywords": [
+    "merege",
+    "sorted",
+    "array"
+  ],
+  "author": "Jayram Singh <jayram.chandan@gmail.com> (http://www.linkedin.com/profile/view?id=164304137)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaysingh/node.js-merge-sorted-array/issues"
+  },
+  "homepage": "https://github.com/jaysingh/node.js-merge-sorted-array",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1"
+  }
+}
