@@ -9,7 +9,7 @@ A small library providing utility method to merge two sorted array
 
 ## Usage
 
-  var ArrayMerge = require('array-merge')
+  var ArrayMerge = require('array-merge'),
       merge = ArrayMerge.merge;
 
   console.log(merge([1,3,5], [2,4,6]));
